@@ -1,0 +1,25 @@
+.login__message{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.login__message h1{
+    font-size: 3rem;
+}
+.login__message h2{
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+.login__message .login__button{
+   background-color: black;
+   color: #fff;
+   width: 14rem;
+   height: 3rem;
+   border: none;
+   
+
+}
